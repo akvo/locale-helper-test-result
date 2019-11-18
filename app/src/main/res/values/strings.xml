@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocaleTest</string>
+    <string name="action_settings">Locale to french</string>
+</resources>
